@@ -25,7 +25,3 @@
 <a href="https://github.com/greggameplayer/Chip8CSharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greggameplayer&repo=Chip8CSharp" />
 </a>
-
-## 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
