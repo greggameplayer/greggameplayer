@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greggameplayer&label=Profile%20views&color=b60c2e&style=flat" alt="greggameplayer" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=greggameplayer&label=Profile%20views&color=b60c2e&style=flat" alt="greggameplayer" />
+    <img src="https://dcbadge.vercel.app/api/shield/323235527631568896?style=flat" alt="discord" />
+</p>
 
 ### Hi there 👋
 - 🎓 I’m currently studying at EPSI to be DevOps
@@ -22,3 +25,7 @@
 <a href="https://github.com/greggameplayer/Chip8CSharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greggameplayer&repo=Chip8CSharp" />
 </a>
+
+## 🗣 My activity:
+
+<!--GITHUB_ACTIVITY:{"rows": 5}-->
