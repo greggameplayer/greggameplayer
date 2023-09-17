@@ -12,7 +12,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=greggameplayer&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,androidstudio,angular,bash,bootstrap,cs,dart,discord,bots,docker,dotnet,eclipse,flutter,git,github,gitlab,grafana,graphql,idea,java,jenkins,jquery,kotlin,kubernetes,laravel,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,ps,php,prometheus,py,spring,symfony,visualstudio,vscode,vue,webpack&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,cloudflare,androidstudio,angular,bash,bootstrap,cs,dart,discord,bots,docker,dotnet,eclipse,flutter,git,github,githubactions,gitlab,grafana,graphql,idea,java,jenkins,jquery,kotlin,kubernetes,laravel,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,ps,php,prometheus,py,spring,symfony,visualstudio,vscode,vue,react,webpack&perline=10)](https://skillicons.dev)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greggameplayer&count_private=true&hide_border=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
