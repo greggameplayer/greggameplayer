@@ -28,5 +28,4 @@
 
 ## 🗣 My activity:
 
-* ❗️ Closed issue #65 in ncarlier/readflow
-* 🗣 Commented on #65 in ncarlier/readflow
+
