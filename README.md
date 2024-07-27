@@ -29,6 +29,3 @@
 ## 🗣 My activity:
 
 * 🗣 Commented on #8451 in longhorn/longhorn
-* 🗣 Commented on #8451 in longhorn/longhorn
-* 🗣 Commented on #8451 in longhorn/longhorn
-* 🗣 Commented on #8451 in longhorn/longhorn
