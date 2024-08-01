@@ -28,4 +28,6 @@
 
 ## 🗣 My activity:
 
+* 🗣 Commented on #357 in shadps4-emu/shadPS4
+* ❗️ Opened issue #357 in shadps4-emu/shadPS4
 * 🗣 Commented on #8451 in longhorn/longhorn
