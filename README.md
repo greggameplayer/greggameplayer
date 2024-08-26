@@ -28,6 +28,8 @@
 
 ## 🗣 My activity:
 
+* 💪 Opened PR #589 in shadps4-emu/shadPS4
+* 🍴 Forked greggameplayer/shadPS4 from shadps4-emu/shadPS4
 * ❗️ Opened issue #581 in shadps4-emu/shadPS4
 * 🗣 Commented on #357 in shadps4-emu/shadPS4
 * ❗️ Opened issue #357 in shadps4-emu/shadPS4
