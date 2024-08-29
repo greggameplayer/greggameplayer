@@ -28,8 +28,8 @@
 
 ## 🗣 My activity:
 
+* 🍴 Forked greggameplayer/sirit from shadps4-emu/sirit
 * 🗣 Commented on #624 in shadps4-emu/shadPS4
 * ⬆️ Pushed 57 commits to greggameplayer/shadPS4
 * 🗣 Commented on #624 in shadps4-emu/shadPS4
 * 💪 Opened PR #608 in shadps4-emu/shadPS4
-* ❗️ Closed issue #581 in shadps4-emu/shadPS4
