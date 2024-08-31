@@ -28,8 +28,8 @@
 
 ## 🗣 My activity:
 
+* ⬆️ Pushed 1 commit to greggameplayer/shadPS4
+* 💪 Opened PR #681 in shadps4-emu/shadPS4
+* ⬆️ Pushed 16 commits to greggameplayer/shadPS4
 * 🗣 Commented on #656 in shadps4-emu/shadPS4
 * 💪 Opened PR #656 in shadps4-emu/shadPS4
-* 💪 Opened PR #654 in shadps4-emu/shadPS4
-* 💪 Opened PR #3 in shadps4-emu/sirit
-* ⬆️ Pushed 34 commits to greggameplayer/shadPS4
