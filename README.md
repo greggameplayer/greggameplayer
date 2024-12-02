@@ -29,7 +29,3 @@
 ## 🗣 My activity:
 
 * 🗣 Commented on #4 in Yepoleb/pygogapi
-* ⬆️ Pushed 10 commits to greggameplayer/shadPS4
-* ⬆️ Pushed 8 commits to greggameplayer/shadPS4
-* 🗣 Commented on #686 in shadps4-emu/shadPS4
-* 🗣 Commented on #686 in shadps4-emu/shadPS4
