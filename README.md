@@ -28,4 +28,4 @@
 
 ## 🗣 My activity:
 
-
+* 🗣 Commented on #4 in Yepoleb/pygogapi
