@@ -5,7 +5,7 @@
     <img src="https://dcbadge.vercel.app/api/shield/323235527631568896?style=flat" alt="discord" />
 </p>
 
-- 🎓 I’m currently studying at EPSI to be DevOps
+- 💼 I’m currently working at Inetum
 - 🌱 I’m currently learning everything i think interesting
 - ⚡ Fun fact: I like playing video games especially rocket league 🚗
 
